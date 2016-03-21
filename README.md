@@ -1,4 +1,4 @@
-# WildFlyDataSourceFirebirdSQL
+# WildFly with DataSource FirebirdSQL
 Settings required to create a datasource that connects to the database FirebirdSQL
 
 In standalone / configuration folder, paste the standalone-full.xml file. You need to modify the settings for database connection. Check the datasource tag.
